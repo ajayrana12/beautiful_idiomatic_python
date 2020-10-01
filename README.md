@@ -1,5 +1,8 @@
 # Transforming Code into Beautiful, Idiomatic Python
 
+Raymond's talk
+
+
 Notes from Raymond Hettinger's talk at pycon US 2013 [video](http://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go), [slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1).
 
 The code examples and direct quotes are all from Raymond's talk. I've reproduced them here for my own edification and the hopes that others will find them as handy as I have!
